@@ -1,0 +1,4 @@
+[jira]
+user = jira.username
+pass= jira.password
+url = https://jira.yourdomain.com

@@ -1,0 +1,5 @@
+jira
+click
+tabulate
+dumper
+pytz
